@@ -1,40 +1,62 @@
-body{
+body {
 
-    background-image:url(https://wallpapercave.com/wp/wp6532543.jpg);
-    background-repeat:  no-repeat;
-    background-size: cover;
+    background-color: black;
 }
-#first{
-    font-size: 50px;
-    font-style: italic;
+
+#div1{
+
+    background-color: blueviolet;
+}
+
+#div2{
+
+    background-color:darksalmon;
+    display:inline;
+
+   
+}
+
+.img12{
+
+    width: 32%;
+}
+
+#img2{
+
+    width: 32%;
+}
+
+.pclass{
+    color: deeppink;
+
+}
+
+#div3{
+    background-image:url(https://th.bing.com/th/id/R.fef922aaa1c3e4ef67c72e02c86764d0?rik=949ZvlRKhMuAfQ&riu=http%3a%2f%2fwww.freelargeimages.com%2fwp-content%2fuploads%2f2014%2f12%2fBlack_background.jpg&ehk=b%2bBO29%2faMnPyr6Hx0wzNW8KCvjexIgFxDuHKTTvyzhw%3d&risl=1&pid=ImgRaw&r=0)
+}
+
+#h11{
+
+    color: lightgreen;
+}
+
+#h22{
+
+    color:red;
+}
+
+#h33{
     color: salmon;
-    text-align: center;
-}
-
-#x2{
-    font-size: 40px;
-    font-style: italic;
-    color: tan;
-    text-align: center;
-
 }
 
 #p1{
-    font-style: italic;
-    color: red;
-    text-align: center;
-    font-size: 30px;
-
+    color: mediumslateblue;
 }
 
+#p2{
+    color: rgb(230, 141, 8)
+}
 
-#img1{
-
-    -webkit-filter: grayscale(100%); 
-    filter: grayscale(100%);
-    width: 30%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+#p3{
+    color:maroon
 }
